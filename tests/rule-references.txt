@@ -3571,3 +3571,15 @@ https://github.com/NetSPI/aws_consoler
 https://github.com/fengjixuchui/Start-ADEnum/blob/e237a739db98b6104427d833004836507da36a58/Functions/Start-ADEnum.ps1#L450
 https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/show_startup-config.htm
 https://confluence.atlassian.com/adminjiraserver0811/importing-and-exporting-data-1019391889.html
+https://github.com/nasbench/Misc-Research/blob/8ee690e43a379cbce8c9d61107442c36bd9be3d3/Other/Undocumented-Flags-Sdbinst.md
+https://www.group-ib.com/resources/threat-research/red-curl-2.html
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispcpl
+https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/about-secret-scanning
+https://anydesk.com/en/changelog/windows
+https://confluence.atlassian.com/bitbucketserver/secret-scanning-1157471613.html
+https://github.com/lkys37en/Start-ADEnum/blob/5b42c54215fe5f57fc59abc52c20487d15764005/Functions/Start-ADEnum.ps1#L680
+https://www.x86matthew.com/view_post?id=create_svc_rpc
+https://objective-see.org/blog/blog_0x6D.html
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispbackgroundpage
+https://www.cve.org/CVERecord?id=CVE-2024-1709
+https://unit42.paloaltonetworks.com/chromeloader-malware/
