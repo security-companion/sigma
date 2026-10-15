@@ -3571,3 +3571,15 @@ https://github.com/NetSPI/aws_consoler
 https://github.com/fengjixuchui/Start-ADEnum/blob/e237a739db98b6104427d833004836507da36a58/Functions/Start-ADEnum.ps1#L450
 https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/show_startup-config.htm
 https://confluence.atlassian.com/adminjiraserver0811/importing-and-exporting-data-1019391889.html
+https://lab52.io/blog/winter-vivern-all-summer/
+https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mint-sandstorm-campaign-targeting-high-profile-individuals-at-universities-and-research-orgs/
+https://github.com/projectHULK/AD_Recon/blob/dde2daba9b3393a9388cbebda87068972cc0bd3b/SecurityAssessment.ps1#L2699
+https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
+https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/
+https://www.cobaltstrike.com/blog/why-is-notepad-exe-connecting-to-the-internet
+https://twitter.com/bohops/status/1740022869198037480
+https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/push-protection-for-repositories-and-organizations
+https://github.com/nasbench/Misc-Research/blob/d114d6a5e0a437d3818e492ef9864367152543e7/Other/Persistence-Via-RegisterAppRestart-Shim.md
+https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-21-wmievent-wmieventconsumertofilter-activity-detected
+https://github.com/redcanaryco/atomic-red-team/blob/02c7d02fe1f1feb0fc7944550408ea8224273994/atomics/T1112/T1112.md#atomic-test-64---disable-remote-desktop-security-settings-through-registry
+https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/
