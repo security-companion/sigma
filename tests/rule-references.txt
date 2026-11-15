@@ -3571,3 +3571,13 @@ https://github.com/NetSPI/aws_consoler
 https://github.com/fengjixuchui/Start-ADEnum/blob/e237a739db98b6104427d833004836507da36a58/Functions/Start-ADEnum.ps1#L450
 https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/show_startup-config.htm
 https://confluence.atlassian.com/adminjiraserver0811/importing-and-exporting-data-1019391889.html
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5140
+https://www.hexacorn.com/blog/2017/01/18/beyond-good-ol-run-key-part-55/
+https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/1803/W10_1803_Pro_19700101_17134.1/WEPExplorer/Application%20Popup.xml#L36
+https://www.fortiguard.com/psirt/FG-IR-22-398
+https://research.checkpoint.com/2023/the-rhysida-ransomware-activity-analysis-and-ties-to-vice-society/
+https://confluence.atlassian.com/bitbucketserver/enable-ssh-access-to-git-repositories-776640358.html
+https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
+https://www.hexacorn.com/blog/2020/08/23/odbcconf-lolbin-trifecta/
+https://learn.microsoft.com/en-us/dotnet/core/runtime-config/debugging-profiling
+https://github.com/pr0xylife/Pikabot/blob/main/Pikabot_22.12.2023.txt
